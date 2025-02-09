@@ -1,8 +1,8 @@
-# 🗂 Overview to English to Spanish Dictonary Application
+# 🗂 Overview to English to Spanish Dictionary Application
 
   
 
-## 🖥️ **English to Spanish Dictonary**
+## 🖥️ **English to Spanish Dictionary**
 
   
 
