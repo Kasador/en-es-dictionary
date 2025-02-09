@@ -9,7 +9,7 @@
 This repository contains the source code for the development of my web application for a English to Spanish dictonary, built using _**npm create vite@latest**_. The new tech stack is designed for simplicity, performance, and ease of content management for future development and maintenance.
 
   
-### 🚧 [Development Server](https://portfolio-2025-hunterstevenshaw.netlify.app/)
+### 🚧 [Development Server](https://en-es-dictionary.netlify.app/)
 
 ## 🛠️ **Tech Stack Overview** 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
